@@ -12,6 +12,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
+    image: /images/Desktop - 1.png
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
