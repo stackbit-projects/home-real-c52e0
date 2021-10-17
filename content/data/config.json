@@ -35,5 +35,12 @@
             }
         ]
     },
-    "domain": "https://home-real-c52e0.netlify.app"
+    "domain": "https://home-real-c52e0.netlify.app",
+    "footer": {
+        "sections": [],
+        "has_nav": true,
+        "nav_links": [],
+        "content": "lorem-ipsum",
+        "links": []
+    }
 }
